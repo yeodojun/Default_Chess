@@ -126,23 +126,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: board_0
+      name: board_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 180
-        height: 180
+        x: 2
+        y: 156
+        width: 22
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aabf8e19f4c777810800000000000000
-      internalID: 1763014460331064234
+      spriteID: 4f96ddc4573362f4583b505f4510651d
+      internalID: 1965792940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4651e70983a7584fb0e59140072899c
+      internalID: 813490652
       vertices: []
       indices: 
       edges: []
@@ -151,7 +173,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5d65aaa6a538b774592b73d9ecb797c7
     internalID: 0
     vertices: []
     indices: 
@@ -160,7 +182,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      board_1: 1965792940
+      board_2: 813490652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
